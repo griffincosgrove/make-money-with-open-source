@@ -1,24 +1,8 @@
-# 💰Sponsorware
-*Sponsorware is a release strategy for open-source software that enables developers to be compensated for their open-source work with fewer downsides than traditional open-source funding models.*
+Sponsorware is a very new model created by Caleb Porzio and Daniel Coulbourne. Porzio first used the model on one of his open-source projects on GitHub. The model takes advantage of the fairly recent addition of a program called GitHub Sponsors where other GitHub users can ‘sponsor’ or compensate other developers and maintainers through GitHub.
 
-## How does it work?
-Simply stated, the “Sponsorware” model for releasing a project is made up of a few simple steps:
+After the package or repository is created it is closed-source until a certain number of sponsors on GitHub is reached. After the number of sponsors is achieved, then the project is open-sourced and freely available. The number is fairly arbitrary but make sure it is attainable.
 
-1. *Build something people want!* –
-This is easier said than done, but we believe this model works best for open source projects with significant pre-release hype. The more interest you are able to build in your product before launch, the better your results are likely to be.
+After the project is open-sourced the primary developer can seek additional revenue from providing other services for sponsors or higher-tiered sponsors. Porzio creates educational material in the form of screencasts (1). The screencasts provide enhanced documentation and tutorials on how to use the package optimally. Porzio reports his income jumped by over 100% by introducing educational content (1). 
 
-2. *Make it available only to “sponsors”* –
-These “sponsors” are people who give you recurring revenue. This can be through any of the big sponsorship platforms (i.e. - [GitHub Sponsors](https://github.com/sponsors), [Patreon](https://www.patreon.com/), [OpenCollective](https://opencollective.com/), etc.) or it can be a system you roll yourself. The important parts are A) that the revenue is recurring, and B) that either your number of sponsors or your net revenue is publicly viewable
-
-3. *Set a sponsorship threshold, and after crossing it, make your thing freely available to the world!* – 
-This can be a number of monthly sponsors, an amount of monthly revenue, or whatever you like. It should be PUBLIC though. Transparency is huge in this process and people need to be able to see progress toward the goal.
-
-## More Info
-For an in depth look at the release story of a real-world SponsorWare project, go check out [Caleb Porzio’s blog post about Sushi](http://calebporzio.com/sponsorware). 
-
-If you want to hear the conversation that birthed the idea, go check out [this episode of the “No Plans to Merge”](https://noplanstomerge.simplecast.com/episodes/funding-opensource-software-aka-sponsorware) podcast.
-
-Caleb was also recently interviewed about Sponsorware on [The Changelog](https://changelog.com/podcast/381), a popular podcast covering the world of Open Source.
-
-## Get in Touch
-If you’re building a Sponsorware project we’d love to hear about it and list in on this repo. Open an issue on this repo or hit up either [Daniel](http://twitter.com/DCoulbourne) or [Caleb](http://twitter.com/calebporzio) on Twitter and let us know how it’s going.
+SOURCES
+https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it
