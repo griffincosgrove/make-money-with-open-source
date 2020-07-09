@@ -4,5 +4,7 @@ After the package or repository is created it is closed-source until a certain n
 
 After the project is open-sourced the primary developer can seek additional revenue from providing other services for sponsors or higher-tiered sponsors. Porzio creates educational material in the form of screencasts (1). The screencasts provide enhanced documentation and tutorials on how to use the package optimally. Porzio reports his income jumped by over 100% by introducing educational content (1). 
 
+More information on the Sponsorware model can be found in the documentation for the model found here: https://github.com/sponsorware/docs
+
 SOURCES
 https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it
