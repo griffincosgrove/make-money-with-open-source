@@ -6,4 +6,5 @@ Without revenue coming in most projects will fail. The most valuable resource is
 
 SOURCES: 
 https://en.wikipedia.org/wiki/Tragedy_of_the_commons
+
 https://www.youtube.com/watch?v=MCEUPosJuIY
